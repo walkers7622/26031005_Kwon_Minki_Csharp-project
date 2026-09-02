@@ -47,6 +47,18 @@
 			// 문자열
 			Console.WriteLine("이력서");
 			Console.WriteLine("\t\t이름: 권민기");
+			//인덱스는 0부터
+			//Console.WriteLine("안녕하세요"[0]);
+			//Console.WriteLine("안녕하세요"[1]);
+			//Console.WriteLine("안녕하세요"[2]);
+			//Console.WriteLine("안녕하세요"[4]);
+			//Console.WriteLine("안녕하세요"[1004]);
+
+			Console.WriteLine("한" + "글");
+
+			Console.WriteLine('한' + '글');
+
+
 		}
 	}
 
