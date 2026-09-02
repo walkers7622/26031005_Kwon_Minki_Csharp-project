@@ -43,6 +43,10 @@
 
 			//문자형
 			Console.WriteLine("똚");
+
+			// 문자열
+			Console.WriteLine("이력서");
+			Console.WriteLine("\t\t이름: 권민기");
 		}
 	}
 
