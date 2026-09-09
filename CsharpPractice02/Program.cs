@@ -6,9 +6,15 @@ namespace CsharpPractice02
     {
         static void Main(string[] args)
         {
-            var inputString = Console.ReadLine();
+            //var inputString = Console.ReadLine();
 
-            Console.WriteLine("Hello, World!");
+            //Console.WriteLine("Hello, World!");
+
+            var val1 = 1000L;
+            var val2 = 2000L;
+
+            int valc = (int)(val1 + val2);
+
         }
     }
 }
